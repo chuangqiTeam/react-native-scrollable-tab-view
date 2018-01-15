@@ -2,6 +2,10 @@
 ## react-native-scrollable-tab-view
 [![npm version](https://badge.fury.io/js/react-native-scrollable-tab-view.svg)](https://badge.fury.io/js/react-native-scrollable-tab-view)
 
+
+## 自定义
+CQcoin项目使用到这个fork，修改了initialPage的underline不显示问题
+
 This is probably my favorite navigation pattern on Android, I wish it
 were more common on iOS! This is a very simple JavaScript-only
 implementation of it for React Native. For more information about how
